@@ -1,0 +1,1 @@
+{:proxy-map {:enabled true :value {"app.kubiev.de" [{"/*" {:rules [] :request {:server-name "testrechner0.suretec.de" :server-port 8080}} "/*.jpg" {}}]}}, :proxy-port {:value 8889, :enabled true}, :http-port {:value 8080, :enabled false}, :development-mode {:enabled true, :value nil}}
